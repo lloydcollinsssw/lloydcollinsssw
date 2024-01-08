@@ -7,4 +7,4 @@
 - 📫 How to reach me: email or phone
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I have climbed the 3 tallest peaks in the uk in 24 hours
-[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{LLOYDCOLLINSSSW}}&theme=dark)](https://github.com/{{LLOYDCOLLINSSSW}}/github-readme-stats)
+[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username=LLOYDCOLLINSSSW&theme=dark)](https://github.com/LLOYDCOLLINSSSW/github-readme-stats)
