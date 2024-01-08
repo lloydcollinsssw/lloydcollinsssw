@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lloydcollinsssw/lloydcollinsssw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email or phone
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I have climbed the 3 tallest peaks in the uk in 24 hours
+[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
 -->
