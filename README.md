@@ -1,7 +1,3 @@
-<!--
-**lloydcollinsssw/lloydcollinsssw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a system administrator @SSW in sunny sydney Australia
 - 🌱 I’m currently learning that my son knows everything
@@ -12,4 +8,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I have climbed the 3 tallest peaks in the uk in 24 hours
 [![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
--->
